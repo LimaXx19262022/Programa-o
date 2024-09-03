@@ -7,29 +7,29 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Quais são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
+    enunciado: "Quem governou o Reino Unido durante a Grande Revolução Indústrial?",
     alternativas: [
         {
-            texto:"Custos elevados",
+            texto:"Rei George III",
             afirmacao: "afirmação 1"
         },
         {
-        texto:"Conscientização e educação",
+        texto:"Rainha Vitória",
         afirmacao: "afirmação 2"
         }
     ]
 },
 
 {
-    enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+    enunciado: "Em que ano ocorreu o golpe republicano?",
     alternativas: [
         {
 
-        texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
+        texto: "15 de novembro de 1989",
         afirmacao: "afirmação 3"
         },
         {
-        texto:"Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
+        texto:"07 de setembro de 1888",
         afirmacao: "afirmação 4"
         }
     ]
